@@ -1,2 +1,2 @@
 # php-crud-admin
-crud appliacation
+crud application
